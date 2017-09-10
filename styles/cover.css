@@ -68,7 +68,7 @@ body {
 #animate-area	{
   /*width: 40%;*/
   /*height: 30%;*/
-  background-image: url(../content/bg2.jpg);
+  background-image: url(../content/bg5.jpg);
   background-repeat: repeat-x;
   background-position: 0 0;
   animation: animatedBackground1 40s linear infinite;
