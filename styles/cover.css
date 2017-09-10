@@ -68,10 +68,10 @@ body {
 #animate-area	{
   /*width: 40%;*/
   /*height: 30%;*/
-  background-image: url(../content/bg.jpg), url(../content/bg2.jpg), url(../content/bg5.jpg);
+  background-image: url(../content/bg.jpg);
   background-repeat: repeat-x;
-  background-position: 0 0, 100% 0, 200% 0;
-  animation: animatedBackground1 20s linear infinite;
+  background-position: 0 0;
+  animation: animatedBackground1 10s linear infinite;
 }
 
 .cover-container {
